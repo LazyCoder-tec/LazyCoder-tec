@@ -1,7 +1,5 @@
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi, I'm **Vivek Bhesurwar** 👋<br>A passionate **Java Full Stack Developer** with a strong focus on building scalable web applications.<br><br>* 💻 Skilled in **Java, Spring Boot, React, SQL**<br>* 🚀 Currently building **E-Commerce & CRM Applications**<br>* 🔐 Interested in **Backend Development, Security, and APIs**<br>*  📚 Continuously learning **DSA, System Design, and Real-world Projects**<br>* ⚡ I enjoy solving complex problems and writing clean, efficient code<br><br>---<br><br>### 🔥 What I'm Working On<br><br>* E-Commerce App with Payment Integration<br>* CRM System for Customer Management<br>* Improving problem-solving skills (Java + DSA)<br><br>---<br><br>### 🎯 Career Goal<br><br>To become a **top-level Full Stack Developer** and work in leading tech companies like<br>Deloitte or abroad 🌍<br><br>---<br><br>### 📫 Connect With Me<br><br>* GitHub: https://github.com/Vivek-Bhesurwar<br>* Email:vickybhesurwar@gmail.com<br><br>---<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vicky_besurwar/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vicky-bhesurwar-b5b6a2313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vickybhesurwar@gmail.com) 
 
